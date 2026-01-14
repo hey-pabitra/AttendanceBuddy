@@ -1,0 +1,5 @@
+{
+  "name": "Attendance Buddy",
+  "description": "A production-ready Attendance Management System with live timetable synchronization, bulk controls, and real-time subject-wise statistics.",
+  "requestFramePermissions": []
+}
